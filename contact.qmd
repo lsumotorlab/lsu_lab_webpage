@@ -1,0 +1,35 @@
+---
+title: "Contact"
+---
+
+::: {.content-section}
+
+## Get in Touch
+
+We welcome inquiries from prospective students, collaborators, and anyone interested in our research.
+
+---
+
+::: {.contact-info}
+
+### Principal Investigator
+
+**Gal Ziv, PhD**  
+Email: [gal.ziv@lsu.lt](mailto:gal.ziv@lsu.lt)
+
+### Lab Address
+
+LSU Skill Acquisition Lab
+Lithuanian Sports University
+Sporto g. 6
+Kaunas
+Lithuania
+Email: [lsumotorlab@gmail.com](mailto:lsumotorlab@gmail.com)
+
+:::
+
+::: {.map-container}
+<iframe src="https://maps.google.com/maps?q=Lithuanian+Sports+University,+Sporto+g.+6,+Kaunas,+Lithuania&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+:::
+
+:::

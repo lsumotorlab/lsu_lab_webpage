@@ -1,0 +1,133 @@
+.team-member {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  border-left: 4px solid #2563eb;
+  background-color: #f8fafc;
+}
+
+.team-member h3 {
+  margin-top: 0;
+  color: #1e3a8a;
+}
+
+.team-member .role {
+  color: #64748b;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.publication-year {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e2e8f0;
+  color: #1e3a8a;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.publication-item {
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.gallery-item {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.gallery-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.gallery-caption {
+  padding: 1rem;
+  background-color: #f8fafc;
+  font-size: 0.9rem;
+  color: #475569;
+}
+
+.contact-info {
+  margin-top: 2rem;
+  padding: 2rem;
+  background-color: #f8fafc;
+  border-radius: 8px;
+}
+
+.contact-info h3 {
+  margin-top: 0;
+}
+
+.map-container {
+  margin-top: 2rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.join-box {
+  margin-top: 2rem;
+  padding: 2rem;
+  background-color: #eff6ff;
+  border-left: 4px solid #2563eb;
+  border-radius: 4px;
+}
+
+.content-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero-section {
+  background-image: url('images/simulator_3.png');
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.hero-section .content-section {
+  background-color: rgba(0, 0, 0, 0.62);
+  border-radius: 8px;
+  padding: 2.5rem 3rem;
+  text-align: center;
+}
+
+.hero-section h1 {
+  color: #ffffff;
+  font-size: 2.5rem;
+  margin-bottom: 0.75rem;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.8);
+}
+
+.hero-section p {
+  color: #ffffff;
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin: 0;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.9);
+  letter-spacing: 0.02em;
+}

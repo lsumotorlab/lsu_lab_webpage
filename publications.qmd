@@ -1,0 +1,16 @@
+---
+title: "Publications"
+---
+
+::: {.content-section}
+
+## Publications
+
+Our lab's publications span motor learning, skill acquisition, eye-tracking, and perceptual-motor performance. For a full and up-to-date list, visit the PI's profiles:
+
+- [Google Scholar](https://scholar.google.com/citations?user=8LstMSIAAAAJ&hl=en&oi=ao){target="_blank"}
+- [ResearchGate](https://www.researchgate.net/profile/Gal-Ziv?ev=hdr_xprf){target="_blank"}
+
+A curated publication list will be added here as the lab grows.
+
+:::

@@ -1,0 +1,27 @@
+---
+title: ""
+---
+
+::: {.hero-section}
+::: {.content-section}
+# LSU Skill Acquisition Lab
+
+Advancing understanding of motor learning and skill acquisition
+:::
+:::
+
+::: {.content-section}
+
+## Welcome
+
+Welcome to our skill acquisition lab. We study how humans learn complex, often sport-related motor skills. Specifically, our research group is interested in the relationship between eye movements and performance and learning in complex tasks that require rapid information processing. We use a racecar driving simulator to examine how novices can learn a difficult perceptual-motor task based on various learning theories.
+
+## Our Research Focus
+
+Our lab investigates fundamental questions about how people acquire and refine motor skills. We employ cutting-edge technologies including eye-tracking systems and racing simulators to understand the perceptual-motor processes underlying skill development.
+
+## Location
+
+We are based at the Lithuanian Sports University in Kaunas, Lithuania.
+
+:::

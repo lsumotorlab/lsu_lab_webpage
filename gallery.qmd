@@ -1,0 +1,54 @@
+---
+title: "Gallery"
+lightbox: true
+---
+
+::: {.content-section}
+
+## Gallery
+
+Explore our lab, research activities, and team events.
+
+---
+
+::: {.gallery-grid}
+
+::: {.gallery-item}
+![Simulator](images/simulator_1.jpg){fig-alt="Racing simulator setup"}
+
+::: {.gallery-caption}
+Our racing simulator setup
+:::
+
+:::
+
+::: {.gallery-item}
+![Simulator](images/simulator_2.jpg){fig-alt="Racing simulator setup"}
+
+::: {.gallery-caption}
+Our racing simulator setup
+:::
+
+:::
+
+::: {.gallery-item}
+![Simulator](images/simulator_3.png){fig-alt="Driving in the simulator with eye tracking"}
+
+::: {.gallery-caption}
+Driving in the simulator with eye tracking
+:::
+
+:::
+
+::: {.gallery-item}
+![BlickShift Eye Tracking](images/blickshift_1.png){fig-alt="BlickShift eye tracking software"}
+
+::: {.gallery-caption}
+BlickShift eye tracking software
+:::
+
+:::
+
+:::
+
+:::

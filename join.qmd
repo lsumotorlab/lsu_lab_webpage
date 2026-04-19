@@ -1,0 +1,59 @@
+---
+title: "Join Us"
+---
+
+::: {.content-section}
+
+## Join Our Lab
+
+We are always interested in hearing from motivated students and researchers who are passionate about motor learning and skill acquisition.
+
+---
+
+### Opportunities
+
+We welcome applications from:
+
+- **Doctoral Students**: Looking to pursue a PhD in motor learning, skill acquisition, or related fields
+- **Master's Students**: Interested in thesis projects involving eye-tracking, perceptual-motor learning, or experimental motor learning research
+- **Bachelor's Students**: Seeking hands-on research experience in our lab
+- **Postdoctoral Researchers**: With expertise in motor learning, cognitive neuroscience, or related areas
+- **Visiting Researchers**: Interested in collaborative projects or research stays
+
+### What We Look For
+
+Ideal candidates have:
+
+- Strong interest in motor learning and skill acquisition
+- Background in sport science, kinesiology, psychology, or related disciplines
+- Enthusiasm for experimental research and data analysis
+- Good communication skills in English
+- (For graduate positions) Research experience and/or relevant academic background
+
+### Research Areas
+
+Our lab focuses on:
+
+- Eye-tracking and gaze behavior in complex motor tasks
+- Perceptual-motor learning in racing simulation
+- Skill acquisition in sport and performance contexts
+- Ecological psychology approaches to motor learning
+- Human information processing in dynamic environments
+
+---
+
+::: {.join-box}
+
+### How to Apply
+
+If you are interested in joining, please contact Gal Ziv at [gal.ziv@lsu.lt](mailto:gal.ziv@lsu.lt)
+
+Please include:
+
+- A brief description of your research interests
+- Your CV
+- Any relevant academic transcripts (for student positions)
+
+:::
+
+:::
