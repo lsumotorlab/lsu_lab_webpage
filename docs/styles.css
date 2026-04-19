@@ -10,16 +10,6 @@
   color: #1e3a8a;
 }
 
-.team-photo {
-  width: 150px;
-  display: block;
-}
-
-.quarto-figure:has(.team-photo) {
-  float: right;
-  margin: 0 0 1rem 1.5rem;
-}
-
 .team-member .role {
   color: #64748b;
   font-style: italic;
