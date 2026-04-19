@@ -15,7 +15,7 @@
   display: block;
 }
 
-p:has(.team-photo) {
+.quarto-figure:has(.team-photo) {
   float: right;
   margin: 0 0 1rem 1.5rem;
 }
