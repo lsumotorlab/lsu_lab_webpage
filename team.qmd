@@ -11,6 +11,8 @@ Meet the members of the LSU Skill Acquisition Lab.
 ---
 
 ::: {.team-member}
+![Gal Ziv](images/gal_ziv.jpg){.team-photo}
+
 ### Gal Ziv, PhD
 ::: {.role}
 Principal Investigator
