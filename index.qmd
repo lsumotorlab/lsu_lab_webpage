@@ -22,6 +22,6 @@ Our lab investigates fundamental questions about how people acquire and refine m
 
 ## Location
 
-We are based at the Lithuanian Sports University in Kaunas, Lithuania ([lsu.lt](https://www.lsu.lt/)).
+We are based at the Lithuanian Sports University in Kaunas, Lithuania ([lsu.lt](https://www.lsu.lt/){target="_blank"}).
 
 :::
