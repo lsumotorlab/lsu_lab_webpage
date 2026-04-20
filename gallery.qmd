@@ -49,6 +49,10 @@ BlickShift eye tracking software
 
 :::
 
+::: {.gallery-item}
+{{< video https://www.youtube.com/embed/VKLfnimfnQM >}}
+:::
+
 :::
 
 :::
