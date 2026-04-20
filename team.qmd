@@ -11,7 +11,7 @@ Meet the members of the LSU Skill Acquisition Lab.
 ---
 
 ::: {.team-member}
-<img src="images/gal_ziv.jpg" style="float:right; width:120px; margin:0 0 1rem 1.5rem;">
+<img src="images/gal_ziv.jpg" style="float:right; width:130px; margin:0 0 1rem 1.5rem;">
 
 ### Gal Ziv, PhD
 ::: {.role}
@@ -24,6 +24,8 @@ Gal Ziv is the Principal Investigator of the LSU Skill Acquisition Lab and an As
 :::
 
 ::: {.team-member}
+<img src="images/dalia.jpg" style="float:right; width:170px; margin:0 0 1rem 1.5rem;">
+
 ### Dalia Mickevičienė, PhD
 ::: {.role}
 Researcher
