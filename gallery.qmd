@@ -41,7 +41,7 @@ Driving in the simulator with eye tracking
 :::
 
 ::: {.gallery-item}
-![BlickShift Eye Tracking](images/blickshift_1.png){fig-alt="BlickShift eye tracking software"}
+![BlickShift Analytics](images/blickshift_1.png){fig-alt="BlickShift eye tracking software"}
 
 ::: {.gallery-caption}
 BlickShift eye tracking software
