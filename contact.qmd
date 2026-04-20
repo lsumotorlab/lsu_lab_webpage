@@ -19,11 +19,11 @@ Email: [gal.ziv@lsu.lt](mailto:gal.ziv@lsu.lt)
 
 ### Lab Address
 
-LSU Skill Acquisition Lab
-Lithuanian Sports University ([lsu.lt](https://www.lsu.lt/){target="_blank"})
-Sporto g. 6
-Kaunas
-Lithuania
+LSU Skill Acquisition Lab<br>
+Lithuanian Sports University ([lsu.lt](https://www.lsu.lt/){target="_blank"})<br>
+Sporto g. 6, 
+Kaunas, 
+Lithuania<br>
 Email: [lsumotorlab@gmail.com](mailto:lsumotorlab@gmail.com)
 
 :::
