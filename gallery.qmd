@@ -41,7 +41,7 @@ Driving in the simulator with eye tracking
 :::
 
 ::: {.gallery-item}
-![BlickShift Analytics](images/blickshift_1.png){fig-alt="Blickshift Analytics gaze analysis software"}
+![Blickshift Analytics](images/blickshift_1.png){fig-alt="Blickshift Analytics gaze analysis software"}
 
 ::: {.gallery-caption}
 Blickshift Analytics gaze analysis software
