@@ -51,7 +51,7 @@ Matteo is a senior researcher at Lithuanian Sports University. His core expertis
 Doctoral Student
 :::
 
-[Add bio here]
+Deividas is a junior researcher at the Institute of Sport Science and Innovations, Lithuanian Sports University. He is currently pursuing a PhD in motor control and performance, with research focusing on skill acquisition principles and the mechanisms by which humans learn and optimize movement in sport and everyday contexts.
 :::
 
 ::: {.team-member}
