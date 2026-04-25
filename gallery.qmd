@@ -50,7 +50,7 @@ Blickshift Analytics gaze analysis software
 :::
 
 ::: {.gallery-item}
-{{< video https://www.youtube.com/embed/VKLfnimfnQM >}}
+{{< video https://www.youtube.com/embed/VKLfnimfnQM title="Lab research video demonstration" >}}
 :::
 
 :::

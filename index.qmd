@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "LSU Skill Acquisition Lab"
 ---
 
 ::: {.hero-section}
@@ -22,6 +22,6 @@ Our lab investigates fundamental questions about how people acquire and refine m
 
 ## Location
 
-We are based at the Lithuanian Sports University in Kaunas, Lithuania ([lsu.lt](https://www.lsu.lt/){target="_blank"}).
+We are based at the Lithuanian Sports University in Kaunas, Lithuania ([lsu.lt](https://www.lsu.lt/){target="_blank" aria-label="Lithuanian Sports University website (opens in new tab)"}).
 
 :::

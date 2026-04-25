@@ -11,7 +11,7 @@ Meet the members of the LSU Skill Acquisition Lab.
 ---
 
 ::: {.team-member}
-<img src="images/gal_ziv.jpg" style="float:right; width:130px; margin:0 0 1rem 1.5rem;">
+<img src="images/gal_ziv.jpg" alt="Gal Ziv" style="float:right; width:130px; margin:0 0 1rem 1.5rem;">
 
 ### Gal Ziv, PhD
 ::: {.role}
@@ -20,11 +20,11 @@ Principal Investigator
 
 Gal Ziv is the Principal Investigator of the LSU Skill Acquisition Lab and an Associate Professor and Senior Researcher at Lithuanian Sports University. His research focuses on motor learning and skill acquisition, with particular expertise in eye-tracking studies and perceptual-motor learning in complex tasks.
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=8LstMSIAAAAJ&hl=en&oi=ao){target="_blank"} | [ResearchGate Profile](https://www.researchgate.net/profile/Gal-Ziv?ev=hdr_xprf){target="_blank"}
+[Google Scholar Profile](https://scholar.google.com/citations?user=8LstMSIAAAAJ&hl=en&oi=ao){target="_blank" aria-label="Gal Ziv on Google Scholar (opens in new tab)"} | [ResearchGate Profile](https://www.researchgate.net/profile/Gal-Ziv?ev=hdr_xprf){target="_blank" aria-label="Gal Ziv on ResearchGate (opens in new tab)"}
 :::
 
 ::: {.team-member}
-<img src="images/dalia.jpg" style="float:right; width:170px; margin:0 0 1rem 1.5rem;">
+<img src="images/dalia.jpg" alt="Dalia Mickevičienė" style="float:right; width:170px; margin:0 0 1rem 1.5rem;">
 
 ### Dalia Mickevičienė, PhD
 ::: {.role}
@@ -42,7 +42,7 @@ Researcher
 
 Matteo is a senior researcher at Lithuanian Sports University. His core expertise is Sports Biomechanics, with a special interest for technique analysis aiming to improve performance and prevent injuries. More recently, Matteo also developed an interest for training science.
 
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=BdJuRlEAAAAJ&view_op=list_works){target="_blank"}
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=BdJuRlEAAAAJ&view_op=list_works){target="_blank" aria-label="Matteo Genitrini on Google Scholar (opens in new tab)"}
 :::
 
 ::: {.team-member}
