@@ -167,6 +167,12 @@ Email: <a href="mailto:gal.ziv@lsu.lt">gal.ziv@lsu.lt</a></p>
 
 
 </main> <!-- /main -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var toggler = document.querySelector('button.navbar-toggler[role="menu"]');
+  if (toggler) toggler.removeAttribute('role');
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
