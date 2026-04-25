@@ -5,9 +5,9 @@ project:
 website:
   title: "LSU Skill Acquisition Lab"
   site-url: https://lsumotorlab.github.io/lsu_lab_webpage
-  search: false
   navbar:
     background: primary
+    search: false
     left:
       - text: "Team"
         href: team.qmd
