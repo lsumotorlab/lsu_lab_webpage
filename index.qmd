@@ -1,5 +1,9 @@
 ---
 title: "LSU Skill Acquisition Lab"
+format:
+  html:
+    include-in-header:
+      - text: "<style>#title-block-header { display: none; }</style>"
 ---
 
 ::: {.hero-section}

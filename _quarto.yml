@@ -30,5 +30,4 @@ format:
     toc: false
     page-layout: full
     lang: en
-    include-before-body: skip-nav.html
     include-after-body: a11y-fixes.html

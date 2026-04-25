@@ -122,7 +122,6 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
-<a href="#quarto-document-content" class="skip-link">Skip to main content</a>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -196,10 +195,18 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script>
-document.addEventListener('DOMContentLoaded', function () {
+(function () {
+  // Insert skip link as the very first element in <body>, before the navbar
+  var skipLink = document.createElement('a');
+  skipLink.href = '#quarto-document-content';
+  skipLink.className = 'skip-link';
+  skipLink.textContent = 'Skip to main content';
+  document.body.insertBefore(skipLink, document.body.firstChild);
+
+  // Remove incorrect role="menu" from the mobile navbar toggler button
   var toggler = document.querySelector('button.navbar-toggler[role="menu"]');
   if (toggler) toggler.removeAttribute('role');
-});
+})();
 </script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
