@@ -99,4 +99,4 @@ For Quarto documentation and support:
 
 ## License
 
-© 2025 LSU Skill Acquisition Lab. All rights reserved.
+© 2026 LSU Skill Acquisition Lab. All rights reserved.
