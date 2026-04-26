@@ -4,63 +4,63 @@ title: "Team"
 
 ::: {.content-section}
 
-## Our Team
-
 Meet the members of the LSU Skill Acquisition Lab.
 
----
+<h2 class="visually-hidden">Team Members</h2>
 
-::: {.team-member}
-<img src="images/gal_ziv.jpg" alt="Gal Ziv" style="float:right; width:130px; margin:0 0 1rem 1.5rem;">
+<div class="team-grid">
 
-### Gal Ziv, PhD
-::: {.role}
-Principal Investigator
-:::
+<div class="team-card">
+<img class="team-card-photo" src="images/gal_ziv.jpg" alt="Photo of Gal Ziv, Principal Investigator">
+<div class="team-card-body">
+<h3>Gal Ziv, PhD</h3>
+<div class="role">Principal Investigator</div>
+<p>Associate Professor and Senior Researcher at Lithuanian Sports University. His research focuses on motor learning and skill acquisition, with particular expertise in eye-tracking studies and perceptual-motor learning in complex tasks.</p>
+<div class="team-card-links">
+<a href="https://scholar.google.com/citations?user=8LstMSIAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Gal Ziv on Google Scholar (opens in new tab)">Google Scholar</a> · <a href="https://www.researchgate.net/profile/Gal-Ziv?ev=hdr_xprf" target="_blank" aria-label="Gal Ziv on ResearchGate (opens in new tab)">ResearchGate</a>
+</div>
+</div>
+</div>
 
-Gal Ziv is the Principal Investigator of the LSU Skill Acquisition Lab and an Associate Professor and Senior Researcher at Lithuanian Sports University. His research focuses on motor learning and skill acquisition, with particular expertise in eye-tracking studies and perceptual-motor learning in complex tasks.
+<div class="team-card">
+<img class="team-card-photo" src="images/dalia.jpg" alt="Photo of Dalia Mickevičienė, Researcher">
+<div class="team-card-body">
+<h3>Dalia Mickevičienė, PhD</h3>
+<div class="role">Researcher</div>
+<p>Associate Professor at the Department of Health Promotion and Rehabilitation and Senior Researcher at the Institute of Sport Science and Innovation, Lithuanian Sports University. Her research focuses on motor control and learning and the interaction of motor skills with environmental influences.</p>
+</div>
+</div>
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=8LstMSIAAAAJ&hl=en&oi=ao){target="_blank" aria-label="Gal Ziv on Google Scholar (opens in new tab)"} | [ResearchGate Profile](https://www.researchgate.net/profile/Gal-Ziv?ev=hdr_xprf){target="_blank" aria-label="Gal Ziv on ResearchGate (opens in new tab)"}
-:::
+<div class="team-card">
+<div class="team-card-avatar" aria-hidden="true">MG</div>
+<div class="team-card-body">
+<h3>Matteo Genitrini, PhD</h3>
+<div class="role">Researcher</div>
+<p>Senior researcher at Lithuanian Sports University. His core expertise is Sports Biomechanics, with a special interest in technique analysis for performance improvement and injury prevention, and a growing focus on training science.</p>
+<div class="team-card-links">
+<a href="https://scholar.google.com/citations?hl=en&user=BdJuRlEAAAAJ&view_op=list_works" target="_blank" aria-label="Matteo Genitrini on Google Scholar (opens in new tab)">Google Scholar</a>
+</div>
+</div>
+</div>
 
-::: {.team-member}
-<img src="images/dalia.jpg" alt="Dalia Mickevičienė" style="float:right; width:170px; margin:0 0 1rem 1.5rem;">
+<div class="team-card">
+<div class="team-card-avatar" aria-hidden="true">DS</div>
+<div class="team-card-body">
+<h3>Deividas Saveikis</h3>
+<div class="role">Doctoral Student</div>
+<p>Junior researcher at the Institute of Sport Science and Innovations, Lithuanian Sports University. His PhD research focuses on skill acquisition principles and the mechanisms by which humans learn and optimize movement in sport and everyday contexts.</p>
+</div>
+</div>
 
-### Dalia Mickevičienė, PhD
-::: {.role}
-Researcher
-:::
+<div class="team-card">
+<div class="team-card-avatar" aria-hidden="true">ND</div>
+<div class="team-card-body">
+<h3>Neila Danilevičiūtė</h3>
+<div class="role">Bachelor's Student</div>
+<p>Junior specialist and research assistant at Lithuanian Sports University. A personal trainer conducting research related to motor learning, skill acquisition, and older adults' health.</p>
+</div>
+</div>
 
-Dalia Mickevičienė is an Associate Professor at the Department of Health Promotion and Rehabilitation and a Senior Researcher at the Institute of Sport Science and Innovation at the Lithuanian Sports University. She contributes to the strategic research field “Muscles, motor control, and health promotion” and is a member of the research group “Impact of Environmental Factors.” Her research focuses on motor control and learning, with an emphasis on understanding the development of motor skills and their interaction with environmental influences.
-:::
-
-::: {.team-member}
-### Matteo Genitrini, PhD
-::: {.role}
-Researcher
-:::
-
-Matteo is a senior researcher at Lithuanian Sports University. His core expertise is Sports Biomechanics, with a special interest for technique analysis aiming to improve performance and prevent injuries. More recently, Matteo also developed an interest for training science.
-
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=BdJuRlEAAAAJ&view_op=list_works){target="_blank" aria-label="Matteo Genitrini on Google Scholar (opens in new tab)"}
-:::
-
-::: {.team-member}
-### Deividas Saveikis
-::: {.role}
-Doctoral Student
-:::
-
-Deividas is a junior researcher at the Institute of Sport Science and Innovations, Lithuanian Sports University. He is currently pursuing a PhD in motor control and performance, with research focusing on skill acquisition principles and the mechanisms by which humans learn and optimize movement in sport and everyday contexts.
-:::
-
-::: {.team-member}
-### Neila Danilevičiūtė
-::: {.role}
-Bachelor's Student
-:::
-
-Neila Danilevičiūtė is a junior specialist and research assistant at the Lithuanian Sports University, a personal trainer conducting research related to motor learning, skill acquisition, and older adults' health.
-:::
+</div>
 
 :::

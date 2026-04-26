@@ -3,10 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "LSU Skill Acquisition Lab"
+  title: "Skill Acquisition Research Group"
   site-url: https://lsumotorlab.github.io/lsu_lab_webpage
   navbar:
-    background: primary
+    background: light
+    title: "Skill Acquisition Research Group"
     search: false
     left:
       - text: "Team"
@@ -20,7 +21,9 @@ website:
       - text: "Join Us"
         href: join.qmd
   page-footer:
-    center: "© 2026 LSU Skill Acquisition Lab. All rights reserved."
+    center: |
+      <a href="/"><img src="/images/lab_logo_1.png" style="height: 100px; display: block; margin: 0 auto 0.5rem; opacity: 0.9;" alt="Skill Acquisition Research Group"></a>
+      © 2026 LSU Skill Acquisition Lab. All rights reserved.
     
 format:
   html:
@@ -31,3 +34,8 @@ format:
     page-layout: full
     lang: en
     include-after-body: a11y-fixes.html
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">

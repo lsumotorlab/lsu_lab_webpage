@@ -4,23 +4,49 @@ title: "Join Us"
 
 ::: {.content-section}
 
-## Join Our Lab
-
 We are always interested in hearing from motivated students and researchers who are passionate about motor learning and skill acquisition.
 
----
+## Opportunities
 
-### Opportunities
+<div class="research-cards" role="list">
 
-We welcome applications from:
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-mortarboard"></i></div>
+### Doctoral Students
+Looking to pursue a PhD in motor learning, skill acquisition, or related fields.
+</div>
 
-- **Doctoral students**: Looking to pursue a PhD in motor learning, skill acquisition, or related fields
-- **Master's students**: Interested in thesis projects involving eye-tracking, perceptual-motor learning, or experimental motor learning research
-- **Bachelor's students**: Seeking hands-on research experience in our lab
-- **Postdoctoral researchers**: With expertise in motor learning, cognitive neuroscience, or related areas
-- **Visiting researchers**: Interested in collaborative projects or research stays
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-journal-bookmark"></i></div>
+### Master's Students
+Interested in thesis projects involving eye-tracking, perceptual-motor learning, or experimental motor learning research.
+</div>
 
-### What We Look For
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-pencil-square"></i></div>
+### Bachelor's Students
+Seeking hands-on research experience in our lab.
+</div>
+
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-graph-up-arrow"></i></div>
+### Postdoctoral Researchers
+With expertise in motor learning, cognitive neuroscience, or related areas.
+</div>
+
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-globe"></i></div>
+### Visiting Researchers
+Interested in collaborative projects or research stays.
+</div>
+
+</div>
+
+<div class="join-info-grid">
+
+<div>
+
+## What We Look For
 
 Ideal candidates have:
 
@@ -30,7 +56,11 @@ Ideal candidates have:
 - Good communication skills in English
 - (For graduate positions) Research experience and/or relevant academic background
 
-### Research Areas
+</div>
+
+<div>
+
+## Research Areas
 
 Our lab focuses on:
 
@@ -40,11 +70,15 @@ Our lab focuses on:
 - Ecological psychology approaches to motor learning
 - Human information processing in dynamic environments
 
+</div>
+
+</div>
+
 ---
 
 ::: {.join-box}
 
-### How to Apply
+## How to Apply
 
 If you are interested in joining, please contact Gal Ziv at [gal.ziv@lsu.lt](mailto:gal.ziv@lsu.lt)
 

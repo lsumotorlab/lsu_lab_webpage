@@ -1,47 +1,62 @@
 /*-- scss:defaults --*/
 $primary: #1e3a8a;
 $secondary: #475569;
-$link-color: #2563eb;
+$link-color: #1d4ed8;          /* 6.2:1 on white – WCAG AA */
 $body-bg: #ffffff;
-$body-color: #334155;
+$body-color: #1e293b;          /* ~13:1 on white – WCAG AAA */
+
+$font-family-base: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$headings-font-family: 'Plus Jakarta Sans', 'Inter', system-ui, sans-serif;
+$headings-font-weight: 700;
+$line-height-base: 1.75;
+$font-size-base: 1rem;
+
+$border-radius: 0.5rem;
+$border-radius-lg: 0.75rem;
 
 /*-- scss:rules --*/
 h1, h2, h3, h4, h5, h6 {
   color: $primary;
-  font-weight: 600;
+  letter-spacing: -0.02em;
 }
 
 .navbar {
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.08);
 }
 
-.hero-section {
-  background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
-  color: white;
-  padding: 4rem 0;
-  margin-bottom: 2rem;
+.navbar-brand {
+  font-family: $headings-font-family;
+  font-weight: 800;
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+  color: $primary !important;
 }
 
-.hero-section h1 {
-  color: white;
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
+.nav-link {
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+  color: $body-color !important;
 }
 
-.hero-section p {
-  font-size: 1.25rem;
+.nav-link:hover, .nav-link:focus {
+  color: $primary !important;
 }
 
+/* Accessibility */
 .skip-link {
-  position: absolute;
+  position: fixed;
   top: -40px;
   left: 0;
-  background: $primary;
-  color: white;
+  background: #ffffff;
+  color: $primary;
   padding: 8px 16px;
   text-decoration: none;
-  z-index: 9999;
+  z-index: 10000;
   border-radius: 0 0 4px 0;
+  font-weight: 600;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+  outline: none !important;
 }
 
 .skip-link:focus {
@@ -55,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar :focus-visible {
-  outline: 3px solid white;
+  outline: 3px solid $link-color;
   outline-offset: 4px;
   border-radius: 4px;
 }

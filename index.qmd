@@ -1,15 +1,17 @@
 ---
-title: "LSU Skill Acquisition Lab"
+title: "Skill Acquisition Research Group"
 format:
   html:
     include-in-header:
       - text: "<style>#title-block-header { display: none; }</style>"
 ---
 
-::: {.hero-section}
-::: {.content-section}
-# LSU Skill Acquisition Lab
+::: {.page-hero}
+<img src="images/lab_logo_1.png" class="hero-logo" alt="Skill Acquisition Research Group – Lithuanian Sports University">
 
+<img src="images/simulator_3.png" class="hero-image" alt="Racing simulator used in motor learning research at the LSU Skill Acquisition Lab">
+
+::: {.hero-subtitle}
 Advancing understanding of motor learning and skill acquisition
 :::
 :::
@@ -20,9 +22,29 @@ Advancing understanding of motor learning and skill acquisition
 
 Welcome to our skill acquisition lab. We study how humans learn complex, often sport-related motor skills. Specifically, our research group is interested in the relationship between eye movements and performance and learning in complex tasks that require rapid information processing. We use a racecar driving simulator to examine how novices can learn a difficult perceptual-motor task based on various learning theories.
 
-## Our Research Focus
+## Our Research
 
-Our lab investigates fundamental questions about how people acquire and refine motor skills. We employ cutting-edge technologies including eye-tracking systems and racing simulators to understand the perceptual-motor processes underlying skill development.
+<div class="research-cards" role="list">
+
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-graph-up-arrow"></i></div>
+### Skill Acquisition
+We study how people learn complex, sport-related motor skills — examining the mechanisms behind improvement and the conditions that best support learning.
+</div>
+
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-eye"></i></div>
+### Eye Tracking & Gaze
+Eye-tracking lets us map where people look during performance. We use gaze data to understand the perceptual strategies that develop with practice.
+</div>
+
+<div class="research-card" role="listitem">
+<div class="research-card-icon" aria-hidden="true"><i class="bi bi-joystick"></i></div>
+### Simulator Research
+Our racecar driving simulator provides a controlled environment to study how novices build perceptual-motor skills under different learning conditions.
+</div>
+
+</div>
 
 ## Location
 

@@ -4,32 +4,38 @@ title: "Contact"
 
 ::: {.content-section}
 
-## Get in Touch
-
 We welcome inquiries from prospective students, collaborators, and anyone interested in our research.
 
----
+<div class="contact-layout">
 
-::: {.contact-info}
+<div class="contact-cards">
 
-### Principal Investigator
+<div class="contact-card">
+<div class="contact-card-icon" aria-hidden="true"><i class="bi bi-person-fill"></i></div>
+<div class="contact-card-body">
+<h2>Principal Investigator</h2>
+<p><strong>Gal Ziv, PhD</strong></p>
+<p><i class="bi bi-envelope" aria-hidden="true"></i> <a href="mailto:gal.ziv@lsu.lt">gal.ziv@lsu.lt</a></p>
+</div>
+</div>
 
-**Gal Ziv, PhD**  
-Email: [gal.ziv@lsu.lt](mailto:gal.ziv@lsu.lt)
+<div class="contact-card">
+<div class="contact-card-icon" aria-hidden="true"><i class="bi bi-building"></i></div>
+<div class="contact-card-body">
+<h2>Lab Address</h2>
+<p>LSU Skill Acquisition Lab<br>
+<a href="https://www.lsu.lt/" target="_blank" aria-label="Lithuanian Sports University website (opens in new tab)">Lithuanian Sports University</a><br>
+Sporto g. 6, Kaunas, Lithuania</p>
+<p><i class="bi bi-envelope" aria-hidden="true"></i> <a href="mailto:lsumotorlab@gmail.com">lsumotorlab@gmail.com</a></p>
+</div>
+</div>
 
-### Lab Address
+</div>
 
-LSU Skill Acquisition Lab<br>
-Lithuanian Sports University ([lsu.lt](https://www.lsu.lt/){target="_blank" aria-label="Lithuanian Sports University website (opens in new tab)"})<br>
-Sporto g. 6, 
-Kaunas, 
-Lithuania<br>
-Email: [lsumotorlab@gmail.com](mailto:lsumotorlab@gmail.com)
+<div class="map-container contact-map">
+<iframe src="https://maps.google.com/maps?q=Lithuanian+Sports+University,+Sporto+g.+6,+Kaunas,+Lithuania&output=embed" title="Map of Lithuanian Sports University location" width="100%" height="380" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
-:::
-
-::: {.map-container}
-<iframe src="https://maps.google.com/maps?q=Lithuanian+Sports+University,+Sporto+g.+6,+Kaunas,+Lithuania&output=embed" title="Map of Lithuanian Sports University location" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-:::
+</div>
 
 :::
