@@ -19,7 +19,7 @@ Our racing simulator setup
 :::
 
 ::: {.gallery-item}
-![Simulator](images/simulator_2.jpg){fig-alt="Racing simulator setup, alternate view"}
+![Simulator](images/simulator_2.jpg){fig-alt="Racing simulator setup, close-up view"}
 
 ::: {.gallery-caption}
 Our racing simulator setup

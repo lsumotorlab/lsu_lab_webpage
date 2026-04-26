@@ -46,8 +46,9 @@ h1, h2, h3, h4, h5, h6 {
 /* Accessibility */
 .skip-link {
   position: fixed;
-  top: -40px;
+  top: 0;
   left: 0;
+  transform: translateY(-100%);
   background: #ffffff;
   color: $primary;
   padding: 8px 16px;
@@ -55,12 +56,12 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 10000;
   border-radius: 0 0 4px 0;
   font-weight: 600;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
   outline: none !important;
 }
 
 .skip-link:focus {
-  top: 0;
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
 }
 
 :focus-visible {
