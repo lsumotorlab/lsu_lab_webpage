@@ -53,7 +53,7 @@ Meet the members of the LSU Skill Acquisition Lab.
 </div>
 
 <div class="team-card">
-<div class="team-card-avatar" aria-hidden="true">ND</div>
+<img class="team-card-photo" src="images/Neila.jpeg" alt="Photo of Neila Danilevičiūtė, Bachelor's Student">
 <div class="team-card-body">
 <h3>Neila Danilevičiūtė</h3>
 <div class="role">Bachelor's Student</div>
