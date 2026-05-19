@@ -20,6 +20,8 @@ website:
         href: contact.qmd
       - text: "Join Us"
         href: join.qmd
+      - text: "Participate"
+        href: participate.qmd
   page-footer:
     center: |
       <a href="/"><img src="/images/lab_logo_1.png" style="height: 100px; display: block; margin: 0 auto 0.5rem; opacity: 0.9;" alt="Skill Acquisition Research Group"></a>

@@ -1,0 +1,75 @@
+---
+title: "Dalyvauti tyrimuose"
+lang: lt
+---
+
+::: {.content-section}
+
+Kviečiame dalyvauti mūsų laboratorijos moksliniuose tyrimuose. Jūsų dalyvavimas padeda mums geriau suprasti motorinį mokymąsi ir įgūdžių įgijimą. Žemiau rasite šiuo metu vykdomus tyrimus.
+
+<div class="study-card">
+<div class="study-card-header">
+<span class="study-badge">Aktyvus</span>
+<h2>Tyrimas Nr. 1</h2>
+<p class="study-full-title">„Ekologinės psichologijos ir informacijos apdorojimo požiūriai į mokymą: poveikis sudėtingų motorinių įgūdžių įgijimui"</p>
+<p class="study-pi"><strong>Pagrindinis tyrėjas:</strong> Dr. Gal Ziv, Lietuvos sporto universitetas</p>
+</div>
+
+<div class="study-card-body">
+<p>Ar jums įdomu, kaip jūsų akys ir smegenys veikia kartu, kai esate už vairo? Nesvarbu, ar esate patyręs sim-lenktynių vairuotojas, ar niekada nelaikėte lenktynių automobilio vairo rankose – laukiame jūsų.</p>
+<p>Mes atliekame tyrimą, kuriame nagrinėjame, kaip skirtingi mokymo metodai veikia vairavimo rezultatus ir žvilgsnio elgseną lenktynių simuliatoriuje. Dalyvaudami įgysite unikalių įžvalgų apie savo suvokimo ir motorines galias – ir prisidėsite prie novatoriškų sporto mokslo tyrimų.</p>
+
+<div class="study-details-grid">
+
+<div class="study-detail-block">
+<div class="study-detail-icon" aria-hidden="true"><i class="bi bi-person-check"></i></div>
+<h3>Kas gali dalyvauti?</h3>
+<ul>
+<li>Sveiki suaugusieji 18–40 metų amžiaus</li>
+<li>Būtinos galiojančios vairuotojo teisės</li>
+<li>Ieškome dalyvių <em>turinčių</em> patirties lenktynėse / simuliacinėse lenktynėse, <strong>ir</strong> dalyvių <em>neturinčių</em> tokios patirties</li>
+</ul>
+</div>
+
+<div class="study-detail-block">
+<div class="study-detail-icon" aria-hidden="true"><i class="bi bi-calendar2-check"></i></div>
+<h3>Ką apima šis tyrimas?</h3>
+<ul>
+<li>2 sesijos su 1–3 dienų pertrauka tarp sesijų</li>
+<li>Ratų važiavimas lenktyninio automobilio simuliatoriuje dėvint akių sekimo akinius</li>
+<li>Kiekviena sesija truks ne ilgiau kaip 75–90 minučių (ne daugiau kaip 60 minučių grynojo vairavimo laiko)</li>
+</ul>
+</div>
+
+<div class="study-detail-block">
+<div class="study-detail-icon" aria-hidden="true"><i class="bi bi-gift"></i></div>
+<h3>Kokia nauda jums?</h3>
+<ul>
+<li>Individualizuotas grįžtamasis ryšys apie jūsų vairavimo rezultatus po tyrimo</li>
+<li>Įžvalgos apie jūsų žvilgsnio modelius ir tai, kaip suvokiate trasą</li>
+<li>LSU bakalauro studentai taip pat gaus savanoriškos veiklos valandų savo portfoliui</li>
+</ul>
+</div>
+
+<div class="study-detail-block">
+<div class="study-detail-icon" aria-hidden="true"><i class="bi bi-geo-alt"></i></div>
+<h3>Vieta</h3>
+<p>Lenktynių tyrimų laboratorija<br>Lietuvos sporto universitetas, Kaunas</p>
+</div>
+
+</div>
+
+<div class="study-contact-box">
+<h3><i class="bi bi-envelope" aria-hidden="true"></i> Kontaktai</h3>
+<p>Norėdami dalyvauti arba sužinoti daugiau, susisiekite su tyrimo komanda:</p>
+<ul>
+<li>Dalia Mickevičienė – <a href="mailto:dalia.mickeviciene@lsu.lt">dalia.mickeviciene@lsu.lt</a></li>
+<li>Deividas Saveikis – <a href="mailto:deividas.saveikis@lsu.lt">deividas.saveikis@lsu.lt</a></li>
+<li>Neila Danilevičiūtė – <a href="mailto:neila.danileviciute@lsu.lt">neila.danileviciute@lsu.lt</a></li>
+</ul>
+</div>
+
+</div>
+</div>
+
+:::
