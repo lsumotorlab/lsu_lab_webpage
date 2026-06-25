@@ -49,6 +49,15 @@ Blickshift Analytics gaze analysis software
 {{< video https://www.youtube.com/embed/VKLfnimfnQM title="Lab research video demonstration" >}}
 :::
 
+::: {.gallery-item}
+{{< video https://www.youtube.com/embed/LsFH19kqa7s title="Inside a Driver's Eyes: Race Car Telemetry & Gaze Analysis in Blickshift Analytics" >}}
+
+::: {.gallery-caption}
+Race car telemetry & gaze analysis in Blickshift Analytics
+:::
+
+:::
+
 :::
 
 :::
