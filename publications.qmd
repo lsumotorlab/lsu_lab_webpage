@@ -4,6 +4,25 @@ title: "Publications"
 
 ::: {.content-section}
 
+## Book
+
+::: {.book-card}
+<img src="images/book_cover_image.jpg" class="book-cover" alt="Book cover of Gaze and Visual Perception in Sport">
+
+
+::: {.book-details}
+### Gaze and Visual Perception in Sport
+
+*Routledge Research in Sport and Exercise Science*
+
+Gal Ziv & Ronnie Lidor · Routledge, 2025
+
+[View on Amazon](https://www.amazon.com/Perception-Routledge-Research-Exercise-Science-ebook/dp/B0CXN9B81G){.book-btn target="_blank" rel="noopener" aria-label="Gaze and Visual Perception in Sport on Amazon (opens in new tab)"}
+:::
+:::
+
+## More Publications
+
 Our lab's publications span motor learning, skill acquisition, eye-tracking, and perceptual-motor performance. For a full and up-to-date list, visit the PI's profiles:
 
 - [Google Scholar](https://scholar.google.com/citations?user=8LstMSIAAAAJ&hl=en&oi=ao){target="_blank" aria-label="Gal Ziv on Google Scholar (opens in new tab)"}
