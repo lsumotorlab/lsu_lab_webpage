@@ -58,6 +58,17 @@ Race car telemetry & gaze analysis in Blickshift Analytics
 
 :::
 
+::: {.gallery-item}
+```{=html}
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/videoseries?list=PLdy8DZekyNTA" title="Race Car Telemetry Analysis in R (playlist)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+```
+
+::: {.gallery-caption}
+Race Car Telemetry Analysis in R (6-video playlist)
+:::
+
+:::
+
 :::
 
 :::
